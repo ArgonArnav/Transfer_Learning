@@ -1,12 +1,9 @@
-# Trained image classification models for Keras
-
-**THIS REPOSITORY IS DEPRECATED. USE THE MODULE `keras.applications` INSTEAD.**
+# Trained image classification models for Keras using VGG16 model primarily
 
 This repository contains code for the following Keras models:
 
 - VGG16
 - VGG19
-- ResNet50
 - Inception v3
 - CRNN for music tagging
 
